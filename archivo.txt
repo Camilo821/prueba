@@ -1,3 +1,4 @@
 Este es un archivo de prueba
 ya se
 jhon estuvo aqui
+hola amiguitos de youtube, en este video aprenderemos a utilizar git =)
